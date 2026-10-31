@@ -1,0 +1,6 @@
+{
+  "name": "Forex Auto Signal System (TwelveData Free)",
+  "description": "Real Forex XAUUSD auto signal system with 7 trading sessions, real TwelveData price feeds, AI decision engine, and NO SIGNAL handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
